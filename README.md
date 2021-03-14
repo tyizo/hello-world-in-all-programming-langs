@@ -1,2 +1,2 @@
 # Hello, World!
-hello world in more then 30+ programming languages.
+hello world in more than 30+ programming languages.
